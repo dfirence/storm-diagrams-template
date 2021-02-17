@@ -1,3 +1,19 @@
+import React from "react";
+
+import PlaybookViewer from './components/PlaybookViewer';
+function App() {
+ 
+  return (
+    <>
+      <PlaybookViewer />
+    </>
+  );
+}
+
+export default App;
+
+/*
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,3 +39,4 @@ function App() {
 }
 
 export default App;
+*/
